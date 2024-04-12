@@ -96,20 +96,6 @@ function Home() {
         count: 400,
       },
     },
-    {
-      id: 6,
-      title: "Solid Gold Petite Micropave ",
-      price: 168,
-      description:
-        "Satisfaction Guaranteed. Return or exchange any order within 30 days.Designed and sold by Hafeez Center in the United States. Satisfaction Guaranteed. Return or exchange any order within 30 days.",
-      category: "jewelery",
-      image:
-        "https://i.pinimg.com/564x/85/7e/de/857ede1496174e87fc1bf9e795b81437.jpg",
-      rating: {
-        rate: 3.9,
-        count: 70,
-      },
-    },
   ];
   return (
     <div>
