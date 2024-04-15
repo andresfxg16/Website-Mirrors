@@ -30,7 +30,7 @@ const ProductBox = (product) => {
         <div className="group rounded relative shadow p-2 bg-white" title={product.title}>
           <img
             className={`${product.imgHeight || "h-48"} w-full rounded object-contain p-4 group-hover:scale-105`}
-            src={product.image}
+            src={product.images && product.images.length > 0 ? product.images[0] : ""}
             alt={product.title}
           />
           <div className="flex flex-col justify-between h-full">

@@ -32,8 +32,8 @@ function Home() {
       description:
         "Your perfect pack for everyday use and walks in the forest. Stash your laptop (up to 15 inches) in the padded sleeve, your everyday",
       category: "men's clothing",
-      image:
-        "https://i.pinimg.com/736x/f9/1e/3d/f91e3dcb07c6a31c339eedfab213c358.jpg",
+      images:
+        ["https://i.pinimg.com/736x/f9/1e/3d/f91e3dcb07c6a31c339eedfab213c358.jpg","https://i.pinimg.com/564x/08/e4/24/08e424ee2d902864f5527716db878f3f.jpg"],
       rating: {
         rate: 3.9,
         count: 120,
@@ -46,8 +46,8 @@ function Home() {
       description:
         "Slim-fitting style, contrast raglan long sleeve, three-button henley placket, light weight & soft fabric for breathable and comfortable wearing. And Solid stitched shirts with round neck made for durability and a great fit for casual fashion wear and diehard baseball fans. The Henley style round neckline includes a three-button placket.",
       category: "men's clothing",
-      image:
-        "https://i.pinimg.com/564x/88/74/2a/88742a4009a74fc1fc9d4b090663be69.jpg",
+      images:
+        ["https://i.pinimg.com/564x/88/74/2a/88742a4009a74fc1fc9d4b090663be69.jpg"],
       rating: {
         rate: 4.1,
         count: 259,
@@ -60,8 +60,8 @@ function Home() {
       description:
         "great outerwear jackets for Spring/Autumn/Winter, suitable for many occasions, such as working, hiking, camping, mountain/rock climbing, cycling, traveling or other outdoors. Good gift choice for you or your family member. A warm hearted love to Father, husband or son in this thanksgiving or Christmas Day.",
       category: "men's clothing",
-      image:
-        "	https://i.pinimg.com/564x/4d/3e/d4/4d3ed4295421242828a39859e2fad20e.jpg",
+      images:
+        ["	https://i.pinimg.com/564x/4d/3e/d4/4d3ed4295421242828a39859e2fad20e.jpg"],
       rating: {
         rate: 4.7,
         count: 500,
@@ -74,8 +74,8 @@ function Home() {
       description:
         "The color could be slightly different between on the screen and in practice. / Please note that body builds vary by person, therefore, detailed size information should be reviewed below on the product description.",
       category: "men's clothing",
-      image:
-        "	https://i.pinimg.com/564x/6a/2b/f6/6a2bf6a50bb54254304d441c58cd62be.jpg",
+      images:
+        ["	https://i.pinimg.com/564x/6a/2b/f6/6a2bf6a50bb54254304d441c58cd62be.jpg"],
       rating: {
         rate: 2.1,
         count: 430,
@@ -89,8 +89,8 @@ function Home() {
       description:
         "From our Legends Collection, the Naga was inspired by the mythical water dragon that protects the ocean's pearl. Wear facing inward to be bestowed with love and abundance, or outward for protection.",
       category: "jewelery",
-      image:
-        "https://i.pinimg.com/564x/96/b5/56/96b556e7282ff663097949bbfd45756f.jpg",
+      images:
+        ["https://i.pinimg.com/564x/96/b5/56/96b556e7282ff663097949bbfd45756f.jpg"],
       rating: {
         rate: 4.6,
         count: 400,
